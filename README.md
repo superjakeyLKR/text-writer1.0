@@ -12,6 +12,6 @@ near impossible in some cases unless you deactivate the program. Also,
 you need to have pyautogui installed for this to work.
 If you, for some reason, can not deactivate the program,
 putting your mouse in any of the four corners of your primary monitor will automatically
-terminate the program, since ```javascript pyautogui.FAILSAFE ``` is true. 
+terminate the program, since ```pyautogui.FAILSAFE``` is true. 
 
 Have fun!
