@@ -1,7 +1,7 @@
 import pyautogui, time
 pyautogui.FAILSAFE = true
 time.sleep(5)
-f = open("texttowrite", 'r')
-for word in f:
+text = open("texttowrite", 'r')
+for word in text:
 pyautogui.typewrite(word)
 pyautogui.press("enter")
