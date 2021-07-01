@@ -2,6 +2,7 @@
 ## Changelog
 Version 1.0:
 This is the base version of text-writer.
+
 Version 1.1:
 Now added single phrase writing ability, and made it so that inputs at the start that aren't 0 or 1 end the program.
 ## Information
@@ -18,6 +19,6 @@ near impossible in some cases unless you deactivate the program.__ Also,
 you need to have pyautogui installed for this to work.
 If you, for some reason, can not deactivate the program,
 moving your cursor in any of the four corners of your primary monitor will automatically
-terminate the program, since ```python pyautogui.FAILSAFE``` is true. 
+terminate the program, since ```pyautogui.FAILSAFE``` is true. 
 
 Have fun!
