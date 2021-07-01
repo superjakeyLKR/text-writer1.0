@@ -1,7 +1,9 @@
-# text-writer1.0
+# text-writer1.1
 ## Changelog
 Version 1.0:
 This is the base version of text-writer.
+Version 1.1:
+Now added single phrase writing ability, and made it so that inputs at the start that aren't 0 or 1 end the program.
 ## Information
 It writes text from a document. This could be used to
 spam people if you really wanted to. It is written in 
